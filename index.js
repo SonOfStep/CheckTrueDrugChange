@@ -4,7 +4,7 @@
 // @description  Just do it
 // @namespace    https://vk.com/omario97
 // @version      0.2
-// @updateURL    https://raw.githubusercontent.com/SonOfStep/CheckTrueDrugChange/master/index.js
+// @updateURL    https://raw.githubusercontent.com/SonOfStep/CheckTrueDrugChange/main/index.js
 // @authot       Omar "SonOfStep" Nurmakhanov
 // @match        *://172.30.149.11:8282/OE/appointment/remsandapps*
 // @grant none
