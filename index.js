@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         CheckTrueDrugChange
-// @namespace    http://tampermonkey.net/
-// @version      0.2.
+// @name:ru      Выбор правильного ЛС
+// @description  Just do it
+// @namespace    https://vk.com/omario97
+// @version      0.2
 // @updateURL    https://raw.githubusercontent.com/SonOfStep/CheckTrueDrugChange/master/index.js
-// @description  try to take over the world!
-// @author       Omar "SonOfStep" Nurmakhanov
+// @authot       Omar "SonOfStep" Nurmakhanov
 // @match        *://172.30.149.11:8282/OE/appointment/remsandapps*
-// @grant        none
+// @grant none
 // ==/UserScript==
 
 (function() {
